@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Broadleaf Commerce
 x-complete: 1
@@ -2569,4 +2568,3 @@ paths:
       - Wishlist
       - Items
       - Move
----

@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Broadleaf Commerce",
+	"description": "This is a repository of broadleaf commerce APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/broadleaf-commerce.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://broadleaf-commerce.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Broadleaf Commerce",
+			"x-api-slug": "broadleaf-commerce",
+			"description": "Broadleaf Commerce is a software technology company headquartered in Dallas, Texas, providing an open source Java eCommerce platform based on Spring Framework.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28889-www-broadleafcommerce-com.jpg",
+			"humanURL": "https://www.broadleafcommerce.com",
+			"baseURL": "https://demo.broadleafcommerce.org//api/v1",
+			"tags": "Broadleaf Commerce",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/broadleaf-commerce/master/_listings/broadleaf-commerce/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Broadleaf Commerce",
+	"include": [
+		{
+			"name": "Broadleaf Commerce",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/broadleaf-commerce/master/_listings/broadleaf-commerce/apis.yaml"
+		}
+	]
+}
